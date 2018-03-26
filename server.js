@@ -9,7 +9,7 @@ const HOST = '0.0.0.0';
 // App
 const app = express();
 app.get('/', (req, res) => {
-  res.send('<h1>Doker Swarm node-app version 3</h1> \n');
+  res.send('<h1> welcome CKP Docker Team3</h1> \n');
 });
 
 app.listen(PORT, HOST);
